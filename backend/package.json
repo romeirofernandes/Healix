@@ -8,7 +8,7 @@
     "dev": "nodemon server.js"
   },
   "dependencies": {
-    "@langchain/core": "^0.3.61",
+    "@langchain/core": "^0.3.80",
     "@langchain/groq": "^0.2.3",
     "axios": "^1.10.0",
     "cors": "^2.8.5",
