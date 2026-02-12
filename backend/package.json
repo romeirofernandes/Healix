@@ -8,9 +8,9 @@
     "dev": "nodemon server.js"
   },
   "dependencies": {
-    "@langchain/core": "^0.3.61",
+    "@langchain/core": "^1.1.14",
     "@langchain/groq": "^0.2.3",
-    "axios": "^1.10.0",
+    "axios": "^1.13.5",
     "cors": "^2.8.5",
     "dotenv": "^16.6.1",
     "express": "^5.1.0",
